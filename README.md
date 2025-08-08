@@ -29,8 +29,9 @@ Web developer from Kenya specializing in Laravel and full-stack solutions. I bui
 
 ## 📈 GitHub Stats
 ![Gilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=TallamGilbert&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gilberttallam&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gilberttallam&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TallamGilbert&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TallamGilbert&theme=radical)
+
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/gilbert-tallam)
