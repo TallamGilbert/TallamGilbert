@@ -13,14 +13,14 @@ Web developer from Kenya specializing in Laravel and full-stack solutions. I bui
 ##  Current Projects
 -  Belion Foods - Organic Restaurant Website
 -  Building my portfolio
--  Roami — Short-Term Rental Booking Platform (Front-end)
--  Acacia Nectar — Minimalist honey business website
+-  Roami - Short-Term Rental Booking Platform (Front-end)
+-  Acacia Nectar - Minimalist honey business website
 -  Artisan Home Furnitures - E-commerce website for premium furniture.
 
 
 ##  Interests
 - Digital transformation for traditional businesses
-- Cars and Formula 1 🏎
+- Cars and Formula 1 
 
 ## 📈 GitHub Stats
 ![Gilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=TallamGilbert&show_icons=true&theme=radical)
