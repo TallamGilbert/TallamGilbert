@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gilbert+Tallam;Full+Stack+Developer;Laravel+%26+React+Builder;Turning+Ideas+into+Products." alt="Typing SVG" />
 
 <p align="center">
-  <em>Student developer from Kenya · Building full-stack systems that solve real problems</em>
+  <em>Software developer from Kenya · Building full-stack systems that solve real problems</em>
 </p>
 
 <br/>
@@ -34,7 +34,7 @@
 
 ```ts
 const gilbert = {
-  role      : "Student Software Developer",
+  role      : "Software Developer",
   focus     : ["Full Stack Development", "Web Applications", "Product Thinking"],
   building  : ["Roami — Short-Term Rental Platform", "Restaurant Management System", "Dev Workflow Tools"],
   stack     : ["JavaScript", "PHP", "Laravel", "React", "MySQL"],
