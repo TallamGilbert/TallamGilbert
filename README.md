@@ -19,9 +19,9 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0a66c2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/gilbert-tallam">
-    <img src="https://img.shields.io/badge/LinkedIn-gilbert--tallam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/gilbert-tallam-6ba34b263/">
+  <img src="https://img.shields.io/badge/LinkedIn-gilbert--tallam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=TallamGilbert&style=for-the-badge&color=0a66c2&label=PROFILE+VIEWS" />
 </p>
@@ -94,17 +94,18 @@ I build complete systems — from pixel-perfect UIs to backend logic and databas
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
-      <img src="https://img.shields.io/badge/Private%20Repo-555555?style=flat-square&logo=github&logoColor=white" />
+      <a href="https://github.com/TallamGilbert/ArtisanHome-V2">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <h3>DevVault</h3>
-      <p>Developer resource aggregator pulling from 10+ GitHub repos with full-text search and dual caching. Helps developers discover curated tools and references in one place.</p>
+      <h3>De_v_aI Bot</h3>
+      <p>Telegram bot delivering curated AI and developer news. Covers machine learning, software development trends, startup funding, and crypto — all in one feed.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
-      <a href="https://github.com/TallamGilbert/DevVault">
+      <a href="https://github.com/TallamGilbert/tech-news-bot">
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
