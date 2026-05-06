@@ -99,16 +99,18 @@ I build complete systems — from pixel-perfect UIs to backend logic and databas
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>De_v_aI Bot</h3>
-      <p>Telegram bot delivering curated AI and developer news. Covers machine learning, software development trends, startup funding, and crypto — all in one feed.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
-      <a href="https://github.com/TallamGilbert/tech-news-bot">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" />
-      </a>
-    </td>
+  <h3>De_v_aI Bot</h3>
+  <p>Telegram bot delivering curated AI and developer news. Covers machine learning, software development trends, startup funding, and crypto — all in one feed.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </p>
+  <a href="https://github.com/TallamGilbert/tech-news-bot">
+    <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
