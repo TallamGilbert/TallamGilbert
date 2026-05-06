@@ -34,11 +34,11 @@
 
 ```ts
 const gilbert = {
-  role      : "Software Developer",
+  role      : "Full Stack Developer",
   focus     : ["Full Stack Development", "Web Applications", "Product Thinking"],
-  building  : ["Roami — Short-Term Rental Platform", "Restaurant Management System", "Dev Workflow Tools"],
-  stack     : ["JavaScript", "PHP", "Laravel", "React", "MySQL"],
-  interests : ["Technology", "Digital transformation for traditional businesses"],
+  building  : ["ArtisanHome", "DevVault", "Life Planner", "De_v_aI Bot"],
+  stack     : ["TypeScript", "PHP", "Laravel", "React", "Next.js", "MySQL", "PostgreSQL"],
+  interests : ["Technology", "Digital transformation for African businesses"],
   goal      : "Launch products people genuinely use.",
 };
 ```
@@ -54,12 +54,13 @@ I build complete systems — from pixel-perfect UIs to backend logic and databas
 **Languages & Frameworks**
 
 <p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 **Tools & Platforms**
@@ -69,8 +70,10 @@ I build complete systems — from pixel-perfect UIs to backend logic and databas
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
 </div>
@@ -83,54 +86,49 @@ I build complete systems — from pixel-perfect UIs to backend logic and databas
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Belion Foods</h3>
-      <p>Organic restaurant website with a clean, product-focused design. Built to represent a real food brand online.</p>
+      <h3>ArtisanHome</h3>
+      <p>Full-stack premium furniture e-commerce platform inspired by luxury brands. Features product browsing, cart, wishlist, checkout, and a full admin dashboard for managing orders and inventory.</p>
       <p>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
-      <a href="https://belion-foods.vercel.app/">
-        <img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" />
-      </a>
+      <img src="https://img.shields.io/badge/Private%20Repo-555555?style=flat-square&logo=github&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>Zenith Motors</h3>
-      <p>A sleek automotive business website showcasing vehicles and services with a modern, professional layout.</p>
+      <h3>DevVault</h3>
+      <p>Developer resource aggregator pulling from 10+ GitHub repos with full-text search and dual caching. Helps developers discover curated tools and references in one place.</p>
       <p>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github&logoColor=white" />
       </p>
-      <a href="https://zenith-motors-omega.vercel.app/">
-        <img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <a href="https://github.com/TallamGilbert/DevVault">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>The Big Fish Westlands</h3>
-      <p>Restaurant website for a real Nairobi venue — menu presentation, ambiance, and contact all in one place.</p>
+      <h3>Life Planner</h3>
+      <p>Personal productivity system with budget tracking, habit streaks, and meal management. Built as a self-contained life management tool for intentional daily living.</p>
       <p>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
-      <a href="https://the-big-fish-westlands-restaurant-website.vercel.app/">
-        <img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <a href="https://github.com/TallamGilbert/life-planner">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>Roami — Rental Platform</h3>
-      <p>Short-term rental booking platform — listings, availability, and reservations. Currently in active development.</p>
+      <h3>De_v_aI Bot</h3>
+      <p>Telegram bot delivering curated AI and developer news. Covers machine learning, software development trends, startup funding, and crypto — all in one feed.</p>
       <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
-      <a href="https://github.com/TallamGilbert">
-        <img src="https://img.shields.io/badge/In%20Progress-181717?style=flat-square&logo=github&logoColor=white" />
-      </a>
+      <img src="https://img.shields.io/badge/Private%20Repo-555555?style=flat-square&logo=github&logoColor=white" />
     </td>
   </tr>
 </table>
