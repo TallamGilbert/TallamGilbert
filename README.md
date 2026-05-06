@@ -124,14 +124,17 @@ I build complete systems — from pixel-perfect UIs to backend logic and databas
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>De_v_aI Bot</h3>
-      <p>Telegram bot delivering curated AI and developer news. Covers machine learning, software development trends, startup funding, and crypto — all in one feed.</p>
+   <td width="50%" valign="top">
+      <h3>DevVault</h3>
+      <p>Developer resource aggregator pulling from 10+ GitHub repos with full-text search and dual caching. Helps developers discover curated tools and references in one place.</p>
       <p>
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github&logoColor=white" />
       </p>
-      <img src="https://img.shields.io/badge/Private%20Repo-555555?style=flat-square&logo=github&logoColor=white" />
+      <a href="https://github.com/TallamGilbert/DevVault">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
