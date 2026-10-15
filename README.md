@@ -3,7 +3,7 @@
 Full-stack developer from Kenya, building web systems that solve real problems.
 
 **GitHub:** [TallamGilbert](https://github.com/TallamGilbert)
-**Portfolio:** [gilbert-personal-website.vercel.app](https://gilbert-personal-website.vercel.app/)
+**Portfolio:** [belion.co.ke](https://belion.co.ke/)
 **LinkedIn:** [gilbert-tallam](https://www.linkedin.com/in/gilbert-tallam-6ba34b263/)
 
 ---
